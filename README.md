@@ -12,7 +12,7 @@ This Discord Bot Made By Tomato6969
 
  **2.** Download this repo and unzip it    |    or git clone it
 
- **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js erela.js enmap ascii-table erela.js-deezer erela.js-spotify ms colors`**
+ **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js erela.js enmap ascii-table erela.js-deezer erela.js-spotify ms colors @ksoft/api`**
 
  **4** Fill in the parameters, RIGHT in `botconfig/config.json`!
 
