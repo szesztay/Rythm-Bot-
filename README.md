@@ -1,18 +1,18 @@
 
-# Advance Discord Music Bot Like Hydra
+# Advance Discord Music Bot Like Rythm Bot
 
-This Discord Bot Made By Tomato6969 and Modeified By Tech Boy Gaming
+This Discord Bot Made By Tomato6969 
 
 
 
 
 ## Installation and How to Use
 
- **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
+ **1.** Install [node.js v12+](https://nodejs.org/en/download/) or higher
 
  **2.** Download this repo and unzip it    |    or git clone it
 
- **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js erela.js`**
+ **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js erela.js enmap ascii-table erela.js-deezer erela.js-spotify ms colors`**
 
  **4** Fill in the parameters, RIGHT in `botconfig/config.json`!
 
