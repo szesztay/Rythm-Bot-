@@ -1,22 +1,22 @@
 {
-  "token": "",
-  "prefix": "!",
+  "token": "Nzk0NzM1NzAxOTYxODY3Mjk0.X-_JTA.MFfEGBKL780uhUHNDYrQ6qwFxxA",
+  "prefix": ".",
   "ksoftapi": "",
   
   
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
-         "password": "youshallnotpass"
+         "host": "137.74.157.16",
+         "port": 4555,
+         "password": "2am8jalhbjg305a76dz17zmxovhv6mif3utca50ru6ll2lieon51cxo7yb8vog0hgjzgupx"
        }
      ]
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "94e95595c0ca473fa2a49bc30358aa87",
+    "clientID": "6328c00bd220462da8d346231c4913e2"
   }
 
 }
